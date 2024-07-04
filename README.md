@@ -1,9 +1,9 @@
 # Navigation-using-Aruco-Markers
-The Python script task_6_qgis.py is a comprehensive program for tracking ArUco markers, storing their coordinates, calculating distances, and updating live data in a CSV file.
+The Python script task_6_qgis.py is a comprehensive program for tracking Aruco markers, storing their coordinates, calculating distances, and updating live data in a CSV file.
 
 Key functionalities include:
 Reading and writing CSV files containing marker IDs and their coordinates.
-Detecting ArUco markers using OpenCV's ArUco module.
+Detecting Aruco markers using OpenCV's Aruco module.
 Estimating distances between a fixed marker (representing a reference point) and other markers.
 Establishing a connection between an ESP32 device and the Python code.
 Dynamically updating live data in a CSV file based on marker proximity.
