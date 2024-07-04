@@ -1,6 +1,6 @@
 ''' 
 * Team Id : <1810>
-* Author List : <Harsh Chandgotia, Shashwat Anand, Arunil Jain, Sanarth Agarwal>
+* Author List : <Harsh Chandgotia>
 * Filename: <task_6_qgis.py>
 * Theme: <Geoguide>
 * Functions: <read_csv, wite_csv, tracker, tracker1, key_with_minimum_value, distance_cal, centre_coord>
